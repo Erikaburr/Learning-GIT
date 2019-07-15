@@ -1,2 +1,9 @@
 language: java
 install: ant
+
+script: gem install bundler
+script: rake spec
+
+before_install: gem install bundler
+
+
