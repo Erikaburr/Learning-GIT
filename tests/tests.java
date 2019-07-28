@@ -7,7 +7,7 @@ class tests {
        public void testMoveDown() {
             test t = new test();
             t.add(5,1);
-            assertEquals(7, 6);      
+            assertEquals(7, 3);      
      }
 }
 
