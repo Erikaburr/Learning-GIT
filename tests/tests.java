@@ -7,6 +7,6 @@ public class tests {
        public void testMoveDown() {
             test elevator = new test();
             elevator.add(5,1);
-            assertEquals(6, 6);      
+            assertEquals(6, 7);      
        }
 }
